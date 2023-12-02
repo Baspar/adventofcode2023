@@ -14,7 +14,7 @@
 | --                                   | --                                   | --                                   | --                                   | --                                   |
 |                                      |                                      |                                      |                                      |                                      |
 | [  1 ](adventofcode.com/2023/day/1)  | [  2 ](adventofcode.com/2023/day/2)  | [  3 ](adventofcode.com/2023/day/3)  | [  4 ](adventofcode.com/2023/day/4)  | [  5 ](adventofcode.com/2023/day/5)  |
-| [⭐⭐](/go/day01/main.go)            | [____](/go/day02/main.go)            | [____](/go/day03/main.go)            | [____](/go/day04/main.go)            | [____](/go/day05/main.go)            |
+| [⭐⭐](/go/day01/main.go)            | [⭐⭐](/go/day02/main.go)            | [____](/go/day03/main.go)            | [____](/go/day04/main.go)            | [____](/go/day05/main.go)            |
 | [  6 ](adventofcode.com/2023/day/6)  | [  7 ](adventofcode.com/2023/day/7)  | [  8 ](adventofcode.com/2023/day/8)  | [  9 ](adventofcode.com/2023/day/9)  | [ 10 ](adventofcode.com/2023/day/10) |
 | [____](/go/day06/main.go)            | [____](/go/day07/main.go)            | [____](/go/day08/main.go)            | [____](/go/day09/main.go)            | [____](/go/day10/main.go)            |
 | [ 11 ](adventofcode.com/2023/day/11) | [ 12 ](adventofcode.com/2023/day/12) | [ 13 ](adventofcode.com/2023/day/13) | [ 14 ](adventofcode.com/2023/day/14) | [ 15 ](adventofcode.com/2023/day/15) |
